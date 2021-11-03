@@ -1,6 +1,7 @@
 import random
 from typing import Counter
 
+
 def wait_for_player():
     try:
          input("\nPress enter to continue. ")
