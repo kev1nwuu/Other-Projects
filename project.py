@@ -1,6 +1,3 @@
-#Gourp: YinHui WU 1830057  and GuoShan Gan 1830069
-
-# Question 1
 import turtle as t
 import random
 
@@ -19,7 +16,7 @@ def shape(): # shape going to Draw
         t.speed(10)
         t.right(111)
 
-shape()
+#shape()
 
 
 
